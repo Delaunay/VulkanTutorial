@@ -1,0 +1,6 @@
+[submodule "dependencies/stb"]
+	path = dependencies/stb
+	url = git@github.com:nothings/stb.git
+[submodule "dependencies/tinyobjloader"]
+	path = dependencies/tinyobjloader
+	url = git@github.com:tinyobjloader/tinyobjloader.git
